@@ -1,6 +1,6 @@
 # Calculadora básica
 Mi primer proyecto desplegado en GitHub, se trata de una calculadora programada para realizar operaciones matemáticas básicas. 
-Está alojada en Github Pages, así que puedes hacer clic <a href="https://gus0212.github.io/calculator/">aquí</a> para que la puedas visualizar. 
+Está alojada en Github Pages, así que puedes hacer clic <a href="https://gusgosdev.github.io/calculator/">aquí</a> para que la puedas visualizar. 
 <code>console.log("Espero que te guste");</code>
 
 <h2>Tecnologías utilizadas</h2>
