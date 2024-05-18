@@ -108,7 +108,13 @@ footer p{
     background-color: var(--clr-midnight-blue);
     align-items: center;
 }
-
+footer a{
+    background-color: var(--clr-midnight-blue);
+    align-items: center;
+    color: var(--clr-pensive);
+    text-decoration: none;
+    font-weight: bold;
+}
 
 
 
